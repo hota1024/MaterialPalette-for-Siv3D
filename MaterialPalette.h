@@ -46,7 +46,10 @@ namespace MaterialPalette
 		900
 	};
 
-
+	//Material Black and White
+	constexpr Color Black{ rgb(0,0,0) };
+	constexpr Color White{ rgb(255,255,255) };
+	
 	//Material Red
 	constexpr Color Red{ rgb(244,67,54) };
 	constexpr Color Red50{ rgb(255,235,238) };
