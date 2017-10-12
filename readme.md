@@ -2,7 +2,7 @@
 MaterialPalette for Siv3DはSiv3Dは[Material design color](https://material.io/guidelines/style/color.html)の色を扱えるようにするものです。
 
 # 使い方
-ダウンロードしたフォルダの中のMaterialPaletteをincludeすれば使えます。
+ダウンロードしたフォルダの中の`MaterialPalette.h`をincludeすれば使えます。
 
 Visual studioの場合は既存のファイルを追加でソリューションに追加してからincludeしてください。
 
